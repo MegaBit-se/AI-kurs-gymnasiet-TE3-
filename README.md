@@ -50,7 +50,7 @@ En kursutvärdering gjordes med 8 deltagande elever, här sammanfattas resultate
 
 ## 🛠️ Material och resurser
 
-Materialet som finns här är fritt att använda och anpassa under Creative Commons BY 4.0-licensen. Observera att vissa filer kan kräva externa licenser eller tillstånd och därför endast är tillgängliga via externa länkar eller stubbar.
+Materialet som finns här är fritt att använda och anpassa under Creative Commons BY 4.0-licensen.
 
 Vissa resurser, som ljudfiler från Suno, bilder från Midjourney och DALL·E, används i enlighet med respektive plattforms villkor och är inte föremål för fullständig upphovsrätt.
 
