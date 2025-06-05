@@ -2,7 +2,9 @@
 Tillämpad AI med fokus på generativ AI
 
 ## Om kursen
-Denna kurs i artificiell intelligens har genomförts på Strömbackaskolan under HT 2024 och VT 2025. Kursen påbörjades av min rektor och mentor Per Boman samt min kollega och teknikveteranen Lars Lindehaven, som lade en gedigen teoretisk grund kring AI, dess roll i samhället, etik och framtida möjligheter. Jag, Anton Stoltz, tog sedan över kursen med ett praktiskt, interaktivt och projektorienterat fokus. AI-utvecklingen har gått i rasande takt sedan kursstart och delar av innehållet är redan nu utdaterat. Jag har dock försökt göra kursen något tidlös genom att främja kreativ problemlösning, digitalt mindset och sunt förnuft i användningen av AI. Material här är från min del av kursen och saknar de grundläggande komponenter skapade av mina kollegor. Materialet ligger under Creative Commons licensen och är därav fritt att använda, ändra och dela.
+Denna kurs i artificiell intelligens har genomförts på Strömbackaskolan under HT 2024 och VT 2025. Kursen påbörjades av min rektor och mentor Per Boman samt min kollega och teknikveteranen Lars Lindehaven, som lade en gedigen teoretisk grund kring AI, dess roll i samhället, etik och framtida möjligheter. Jag, Anton Stoltz, tog sedan över kursen med ett praktiskt, interaktivt och projektorienterat fokus. 
+
+AI-utvecklingen har gått i rasande takt sedan kursstart och delar av innehållet är redan nu utdaterat. Jag har dock försökt göra kursen något tidlös genom att främja kreativ problemlösning, digitalt mindset och sunt förnuft i användningen av AI. Material här är från min del av kursen och saknar de grundläggande komponenter skapade av mina kollegor. Materialet ligger under Creative Commons licensen och är därav fritt att använda, ändra och dela.
 
 👤 Vem är jag?
 
