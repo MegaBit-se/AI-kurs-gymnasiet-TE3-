@@ -6,7 +6,7 @@ Denna kurs i artificiell intelligens har genomförts på Strömbackaskolan under
 
 👤 Vem är jag?
 
-Jag heter Anton Stoltz och har en bakgrund inom elektronik och datateknik med en stark entreprenöriell inriktning på praktiska tillämpningar av generativ AI. Observera att jag inte är formellt utbildad lärare och saknar akademiska meriter inom AI, utan undervisar utifrån praktisk erfarenhet och passion för ämnet och pedagogik.
+Jag heter Anton Stoltz och har en bakgrund inom elektronik och datateknik med en stark entreprenöriell inriktning på praktiska tillämpningar av generativ AI. Jag jobbar för att demokratisera AI-kompetens, främja ett förnuftigt användande och coacha elever att hitta och nyttja sina digitala skills. Observera att jag inte är formellt utbildad lärare och saknar akademiska meriter inom AI, utan undervisar utifrån praktisk erfarenhet och passion för ämnet och pedagogik.
 
 ## Kursmoment
 
