@@ -1,14 +1,14 @@
 # AI-kurs-gymnasiet-TE3
 Tillämpad AI med fokus på generativ AI
 
-Om kursen
+## Om kursen
 Denna kurs i artificiell intelligens har genomförts på Strömbackaskolan under HT 2024 och VT 2025. Kursen påbörjades av min rektor och mentor Per Boman samt min kollega och teknikveteranen Lars Lindehaven, som lade en gedigen teoretisk grund kring AI, dess roll i samhället, etik och framtida möjligheter. Jag, Anton Stoltz, tog sedan över kursen med ett praktiskt, projektorienterat fokus.
 
 👤 Vem är jag?
 
 Jag heter Anton Stoltz och har en bakgrund inom elektronik och datateknik med en stark entreprenöriell inriktning på praktiska tillämpningar av generativ AI. Observera att jag inte är formellt utbildad lärare och saknar akademiska meriter inom AI, utan undervisar utifrån praktisk erfarenhet och passion för ämnet och pedagogik.
 
-Kursmoment
+## Kursmoment
 
 Kursen är strukturerad kring följande huvudmoment:
 
