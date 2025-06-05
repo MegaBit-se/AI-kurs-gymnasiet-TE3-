@@ -60,9 +60,6 @@ Vissa resurser, som ljudfiler från Suno, bilder från Midjourney och DALL·E, a
 
 ## 📬 Kontakt
 Har du frågor, vill diskutera något eller kanske utveckla materialet vidare?
-Mail: anton.stoltz@pitea.se
 
 📧 [anton.stoltz@pitea.se](mailto:anton.stoltz@pitea.se)
-🔗 [LinkedIn](https://www.linkedin.com/in/anton-stoltz)
-
-Bidrag via pull requests och förslag är varmt välkomna – tillsammans bygger vi framtidens AI-undervisning!
+🔗 [LinkedIn](https://www.linkedin.com/in/anton-stoltz-5861a3249)
