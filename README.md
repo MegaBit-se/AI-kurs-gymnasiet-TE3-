@@ -58,6 +58,7 @@ Vissa resurser, som ljudfiler från Suno, bilder från Midjourney och DALL·E, a
 
 * Alla exempel på personer, skolor eller företag är helt fiktiva, om inte annat anges.
 * Kursens innehåll syftar till att främja kritiskt och etiskt tänkande kring användningen av AI.
+* Vid frågor eller funderingar kring IT-säkerhet, mjukvaruanvändning och föreskrifter, kontakta din IT-säkerhetskoordinator.
 * Vid frågor eller funderingar kring innehåll, kontakta mig gärna direkt.
 
 ## 📬 Kontakt
